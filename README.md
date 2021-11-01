@@ -1,4 +1,4 @@
-# Weather App using openweathermap API
+# Weather Forecast App using openweathermap API
 
 This is my hobby project used to learn how to use public api for project.In this i used the api of openweathermap to featch the weather details of various city across the globe by giving city name as input.
 
@@ -7,6 +7,7 @@ This is my hobby project used to learn how to use public api for project.In this
 * Django
 * openweathermap api
 * HTML
+* BootStrap 4
 
 ### References:
 &hearts; Thanks to
