@@ -15,7 +15,11 @@ Note: for libraries used in this projects you can refer requirements.txt
 ### References:
 &hearts; Thanks to
 * https://openweathermap.org/api
+* https://www.djangoproject.com/
+* https://getbootstrap.com/
+* https://www.python.org/
 * https://youtu.be/E-n5QAuQSr8
+
 
 Note: This Project is under development. You can check the latest update in this repository.
 
