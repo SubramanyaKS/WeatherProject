@@ -1,8 +1,13 @@
+#import library
 from django.shortcuts import render
 import json
 import urllib.request
 
 # Create your views here.
+""" index function recieve the city from the html test box
+    request the url(openweathermap) to get the data of particular city in json format .
+    display the data in html file.
+"""
 def index(request):
     if request.method =="POST":
         city=request.POST['city']
