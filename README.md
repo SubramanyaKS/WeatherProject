@@ -10,6 +10,6 @@ This is my hobby project used to learn how to use public api for project.In this
 
 ### References:
 &hearts; Thanks to
-https://openweathermap.org/api
-https://youtu.be/E-n5QAuQSr8
+* https://openweathermap.org/api
+* https://youtu.be/E-n5QAuQSr8
 
