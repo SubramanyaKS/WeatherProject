@@ -8,6 +8,7 @@ It's my hobby project which is created to learn to use public api for project.In
 * openweathermap API
 * HTML
 * BootStrap 4
+* IDE: VS Code
 
 Note: for libraries used in this projects you can refer requirements.txt
 
