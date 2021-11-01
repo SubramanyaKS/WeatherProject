@@ -19,5 +19,5 @@ Note: for libraries used in this projects you can refer requirements.txt
 Note: This Project is under development. You can check the latest update in this repository.
 
 ##### Fork
-for forking this repository you can  go through the steps provided in the link below.
+for forking this repository you can  go through the steps provided in the link below.:point_down:
 <br>https://docs.github.com/en/get-started/quickstart/fork-a-repo 
