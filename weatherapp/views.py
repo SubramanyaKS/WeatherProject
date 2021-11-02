@@ -28,3 +28,6 @@ def index(request):
     else:
         data={}
     return render(request,"index.html",data)
+
+def about(request):
+    return render(request,'about.html')
