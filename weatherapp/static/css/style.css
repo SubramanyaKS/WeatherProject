@@ -1,11 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
 *{
 	padding:0;
 	margin:0;
 	box-sizing: border-box;
 	
 }
-.html,body{
+html,body{
      width:100%;
      height:100%;
      margin:0px;
@@ -14,6 +15,25 @@
 }
 .navbar{
 	background-color:#000000;
+}
+.nav-link{
+	color:blue;
+	font-size:1rem;
+	font-weight:700;
+	cursor:pointer;
+	text-decoration:none;
+}
+.nav-link:hover{
+	color:blue;
+	background-color:rgb(240, 240, 245);
+	
+}
+.navbar-brand{
+	font-size:1.25rem;
+	font-weight:800;
+	color:blue;
+	cursor:pointer;
+	text-decoration:none;
 }
 .main{
      background:url(/static/images/images.jpg)no-repeat;

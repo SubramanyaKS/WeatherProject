@@ -1,23 +1,23 @@
 {% extends "layout.html" %}
 {% block content %}
-        <section class="main" id="main">
-
-          <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-            <form method="post" class="col-md">
-              {% csrf_token %}
-              <div class=" input-group">
-                <input type="text" class="form-control" name="city" placeholder="Choose Your City ...">
-                <div class="input-group-btn">
-                  <button type="submit" class="btn btn-primary">Search</button>
-                </div>
-              </div>
-            <form>
-          </nav>
-          <br> <br>
-          <div class="row">
-            {% if country_code and coordinate and temp and pressure and humidity %}
-              <div class="col d-flex justify-content-center">
-                <div class=" card text-black bg-light mb-6">
+  <section class="main" id="main">
+  <h2>Welcome to Weather APP </h2>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+      <form method="post" class="col-md">
+      {% csrf_token %}
+        <div class=" input-group">
+          <input type="text" class="form-control" name="city" placeholder="Choose Your City ...">
+          <div class="input-group-btn">
+              <button type="submit" class="btn btn-primary">Search</button>
+          </div>
+        </div>
+      <form>
+    </nav>
+    <br> <br>
+    <div class="row">
+      {% if country_code and coordinate and temp and pressure and humidity %}
+      <div class="col d-flex justify-content-center">
+          <div class=" card text-black bg-light mb-6">
                   <div class=" card-body">
                     <h4><span class="badge badge-primary"style="background-color:black">Country Code :</span> {{country_code}}</h4>
                     <h4><span class="badge badge-primary"style="background-color:black">Coordinates [X,Y] :</span> {{coordinate}}</h4>
