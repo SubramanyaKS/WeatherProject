@@ -27,6 +27,34 @@ Note: This Project is under development. You can check the latest update in this
 for forking this repository you can  go through the steps provided in the link below.:point_down:
 <br>https://docs.github.com/en/get-started/quickstart/fork-a-repo 
 
+# Running the Project Locally
+
+First, clone the repository to your local machine:
+
+```bash
+git clone https://github.com/jamilnoyda/Make-REST-API-in-Django-using-Django-REST-Framework..git
+```
+
+Install the requirements:
+
+```bash
+pip install -r requirements.txt
+```
+
+Create the database:
+
+```bash
+python manage.py migrate
+```
+
+Finally, run the development server:
+
+```bash
+python manage.py runserver
+```
+
+The project will be available at **127.0.0.1:8000**.
+
 Any feedbacks and suesstions are always welcomed.
 
 with &hearts; Subramanya K S
