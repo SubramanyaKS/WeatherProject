@@ -32,7 +32,7 @@ for forking this repository you can  go through the steps provided in the link b
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/jamilnoyda/Make-REST-API-in-Django-using-Django-REST-Framework..git
+git clone https://github.com/SubramanyaKS/WeatherProject.git
 ```
 
 Install the requirements:
