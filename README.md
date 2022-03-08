@@ -58,7 +58,7 @@ The project will be available at **127.0.0.1:8000**.
 ###### Note:
 Any feedbacks and suesstions are always welcomed.
 
-
+If you like my repository please ⭐this repository.
 
 
 with &hearts; Subramanya K S
