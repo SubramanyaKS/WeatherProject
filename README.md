@@ -45,7 +45,7 @@ python manage.py runserver
 The project will be available at **127.0.0.1:8000**.
 
 ###### Note:
-Any feedbacks and suesstions are always welcomed.
+Any feedbacks and suggestions are always welcomed.
 
 ### References:
 &hearts; Thanks to
