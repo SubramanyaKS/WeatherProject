@@ -12,22 +12,11 @@ It's my hobby project which is created to learn to use public api for project.In
 
 Note: for libraries used in this projects you can refer requirements.txt
 
-### References:
-&hearts; Thanks to
-* https://openweathermap.org/api
-* https://www.djangoproject.com/
-* https://getbootstrap.com/
-* https://www.python.org/
-* https://youtu.be/E-n5QAuQSr8
-
-
-Note: This Project is under development. You can check the latest update in this repository.
-
 #### Fork
 for forking this repository you can  go through the steps provided in the link below.:point_down:
 <br>https://docs.github.com/en/get-started/quickstart/fork-a-repo 
 
-# Running the Project Locally
+### Running the Project Locally
 
 First, clone the repository to your local machine:
 
@@ -57,6 +46,17 @@ The project will be available at **127.0.0.1:8000**.
 
 ###### Note:
 Any feedbacks and suesstions are always welcomed.
+
+### References:
+&hearts; Thanks to
+* https://openweathermap.org/api
+* https://www.djangoproject.com/
+* https://getbootstrap.com/
+* https://www.python.org/
+* https://youtu.be/E-n5QAuQSr8
+
+
+Note: This Project is under development. You can check the latest update in this repository.
 
 If you like my repository please ⭐this repository.
 
