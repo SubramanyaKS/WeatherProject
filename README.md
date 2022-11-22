@@ -1,4 +1,4 @@
-# Weather App using Django
+#  ⛈ Weather App using Django
 
 It's my hobby project which is created to learn to use public api for project.In this project I used the api of openweathermap to featch the weather details of various city across the globe by providing city name as input.
 
